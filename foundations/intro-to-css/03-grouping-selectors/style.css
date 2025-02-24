@@ -1,0 +1,13 @@
+.spec1 {
+    background-color: rgb(0,0,0);
+    color: #ffffff;
+}
+
+.spec2 {
+    background-color: hsl(60, 100%, 65%);
+}
+
+.both {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
