@@ -70,8 +70,8 @@ button.cancel {
 
 .modal {
   display: flex;
-  padding: 18px;
-  gap: 18px;
+  padding: 16px;
+  gap: 16px;
 }
 
 .container {
@@ -84,7 +84,8 @@ button.cancel {
   display: flex;
   width: 100%;
   font-size: 18px;
-  font-weight: bold;
+  font-weight: 900;
+  align-items: center;
 }
 
 .icon {
@@ -98,7 +99,7 @@ button.close-button {
 
 .options {
   width: 100%;
-  margin-top: 8px;
+  margin-top: 16px;
 }
 
 div.text {
